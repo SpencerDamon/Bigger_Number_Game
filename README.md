@@ -1,29 +1,31 @@
 # Bigger Number App
 
-## *your name here*
+## *Spencer Damon*
 
-**Name of App** (aka "Cal Admission Test") prompts the user to select which of the two numbers presented is larger. The background color is updated depending on if the correct answer is chosen. New numbers are randomly selected after a user selection.
+**Bigger Number App** (aka "Cal Admission Test") prompts the user to select which of the two numbers presented is larger. The background color is updated depending on if the correct answer is chosen. New numbers are randomly selected after a user selection.
 
-Time spent: **Z** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Functionality
 
 The following **required** functionality is completed:
 
-* [ ] User can select one of two button options shown
-* [ ] The user sees the background color change based on the number (button) selected
-* [ ] The user sees new distinct numbers displayed on the buttons after either button is tapped
+* [x] User can select one of two button options shown
+* [x] The user sees the background color change based on the number (button) selected
+* [x] The user sees new distinct numbers displayed on the buttons after either button is tapped
 
 The following **extensions** are implemented:
 
 * [ ] Custom colors selected
-* [ ] List anything else that you did to improve the app functionality or design!
+* [x] List anything else that you did to improve the app functionality or design!
+* Added View Binding functionality.
+* Used Kotlin Random package, instead of java Random package.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://j.gifs.com/gZ0RQZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://j.gifs.com/RlwOZV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -33,7 +35,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Spencer Damon]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
