@@ -25,7 +25,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthtrough](Video%20Walkthrough.gif)
+![Video Walkthtrough](Video_Walkthrough.gif)
 
 
 ## Notes
