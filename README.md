@@ -25,11 +25,8 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthtrough](Video Walkthrough.gif)
+![Video Walkthtrough](Video%20Walkthrough.gif)
 
-<img src='https://j.gifs.com/RlwOZV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
