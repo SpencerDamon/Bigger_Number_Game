@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Bigger Number Game</string>
     <string name="number_guessing_game">Number Guessing Game</string>
-    <string name="click_the_button_with_the_highest_number">Click the button with the highest number.</string>
+    <string name="click_the_highest_number">Click the highest number.</string>
 </resources>
